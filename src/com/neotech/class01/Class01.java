@@ -4,7 +4,7 @@ public class Class01 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Windows is better!!");
+		System.out.println("First Class");
 
 		
 		
