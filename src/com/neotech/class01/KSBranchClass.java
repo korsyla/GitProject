@@ -1,13 +1,10 @@
 package com.neotech.class01;
 
-public class Class01 {
+public class KSBranchClass {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello");
-
-		
-		
+		//I added a branch at 10:05
 	}
 
 }
